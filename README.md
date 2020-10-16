@@ -26,4 +26,4 @@ Website provides information about the restaurant
 - [CSS](https://www.w3schools.com/css/)
 - [JS](https://www.javascript.com/)
 
-##### tags: `Dicoding` `PWA` `Webpack` `ES6`
+##### tags: `Dicoding` `dicodingsubmission` `PWA` `Webpack` `ES6`
