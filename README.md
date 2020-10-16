@@ -1,6 +1,6 @@
 # Submission Dicoding - Menjadi Front-End Web Developer Expert
 
-[![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Frestroweb.netlify.app)](https://restroweb.netlify.app) [![Github](https://img.shields.io/github/followers/triwibow?label=follow&style=social)](https://github.com/triwibow?tab=followers) [![Netlify Status](https://api.netlify.com/api/v1/badges/bf29bcf8-ae2c-4d1d-ab92-148a782c8c04/deploy-status)](https://app.netlify.com/sites/restroweb/deploys)
+[![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Frestroweb.netlify.app)](https://restroweb.netlify.app) [![Github](https://img.shields.io/github/followers/triwibow?label=follow&style=social)](https://github.com/triwibow?tab=followers) [![Netlify Status](https://api.netlify.com/api/v1/badges/bf29bcf8-ae2c-4d1d-ab92-148a782c8c04/deploy-status)](https://restroweb.netlify.app/)
 
 Website provides information about the restaurant
 
