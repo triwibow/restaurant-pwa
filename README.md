@@ -13,7 +13,7 @@ Website provides information about the restaurant
 
 ## Demo
 <p align="center">
-    <img src="images/screenshot/screnshot.png"
+    <img src="src/images/../public/images/screenshot/screenshot.png"
         style="margin-right: 20px;"
     />
 </p>
@@ -26,4 +26,4 @@ Website provides information about the restaurant
 - [CSS](https://www.w3schools.com/css/)
 - [JS](https://www.javascript.com/)
 
-##### tags: 'Dicoding' 'PWA' 'Webpack' 'ES6'
+##### tags: `Dicoding` `PWA` `Webpack` `ES6`
